@@ -1,7 +1,5 @@
 # Fitness App
 
-👉 https://fitness-app01.netlify.app/
-
 ![Untitled](https://github.com/Sachintha-Samarathunga/Fitness-App/assets/98406068/0523fb28-711e-436e-8a80-9acd19557d9f)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
